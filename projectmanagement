@@ -1,0 +1,33 @@
+# 📋 Project Management Tool
+
+A collaborative project management web application developed as part of my **CodeAlpha Full Stack Development Internship**.
+
+## 🚀 Features
+
+- User authentication
+- Create group projects
+- Assign tasks
+- Project boards
+- Task cards
+- Comments and communication within tasks
+- User, project, task, and comment management
+- Real-time notifications and updates using WebSockets
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Full Stack Development
+- WebSockets
+- Backend database
+
+## 📸 Project Demo
+
+Add your project screenshots or demo video here.
+
+## 🎯 Internship Task
+
+**CodeAlpha – Task 3: Project Management Tool**
+
+This project helped me gain practical experience in building collaborative applications, managing tasks and users, and implementing real-time communication.
